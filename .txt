@@ -1,0 +1,7 @@
+git init   --- inicia el repositorio local
+git add . --- añade  todo al repositorio
+git add "documento" --- Añade un archivo en especifico al repositorio  
+git status --- visualiza en estado del repositorio mostrando los archivos nuevos, viejos o modificados 
+git commit -m "nombre" --- asigna un nombre y crea un punto de guardado al repositorio
+git push --- sube el repositorio local a la nube 
+git pull --- sirve para sincronizar el repositorio local con el repositorio en la nube 
